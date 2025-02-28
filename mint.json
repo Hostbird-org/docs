@@ -9,9 +9,9 @@
   "colors": {
     "primary": "#4353ff",
     "light": "#4353ff",
-    "dark": "#4353ff",
-    "background": "#000000"
+    "dark": "#000000"
   },
+  "backgroundColor": "#000000",
   "modeToggle": {
     "default": "dark",
     "isHidden": true
