@@ -1,12 +1,12 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Hostbird",
+  "name": "Hostbird Docs",
   "openapi": [
     "/openapi.yaml"
   ],
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#3b82f6",
+    "primary": "#4353ff",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
