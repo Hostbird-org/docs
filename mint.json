@@ -4,6 +4,9 @@
   "openapi": [
     "/openapi.yaml"
   ],
+  "logo": {
+         "/images/hb_logo.png"
+            },
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#4353ff",
