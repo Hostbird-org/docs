@@ -16,7 +16,11 @@
       "from": "#4353ff",
       "to": "#000DA1"
     }
-  },
+  }
+  "modeToggle": {
+  "default": "dark",
+  "isHidden": true
+},
   "topbarLinks": [
     {
       "name": "Mail Support",
