@@ -3,7 +3,7 @@
   "name": "Hostbird Docs",
   "openapi": [
     "/openapi.yaml"
-  ],
+  ]}
   "logo": {
          "/images/hb_logo.png"
             },
@@ -16,12 +16,7 @@
       "from": "#4353ff",
       "to": "#000DA1"
     }
-    "modeToggle": {
-  "default": "dark",
-  "isHidden": true
-}
-  }
-  ,
+  },
   "topbarLinks": [
     {
       "name": "Mail Support",
