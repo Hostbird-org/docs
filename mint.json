@@ -42,11 +42,6 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "github",
-      "url": "https://github.com/ground-ai/docs"
-    },
-    {
       "name": "Community",
       "icon": "slack",
       "url": "https://grounddev.slack.com/"
