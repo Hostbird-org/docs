@@ -47,9 +47,9 @@
     {
       "group": "Hosting",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "hosting/managed",
+        "hosting/virtual",
+        "hosting/dedicated"
       ]
     },
     {
@@ -65,9 +65,9 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Hosting",
       "pages": [
-        "api-reference/introduction"
+        "hosting/introduction"
       ]
     },
     {
