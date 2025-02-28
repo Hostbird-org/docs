@@ -2,9 +2,9 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Hostbird",
   "logo": {
-    "dark": "/files/hostbird.png",
+    "dark": "hb_icon.png",
   },
-  "favicon": "/files/icon.png",
+  "favicon": "hb_icon.png",
   "colors": {
     "primary": "#000000",
     "light": "#ffffff",
