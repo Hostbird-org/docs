@@ -84,8 +84,5 @@
       ]
     }
   ],
-  "footerSocials": {
-    "github": "https://github.com/ground-ai/docs",
-    "slack": "https://grounddev.slack.com/"
-  }
+  "footerSocials": 
 }
