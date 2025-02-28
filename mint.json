@@ -1,11 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "PromptSpec",
+  "name": "Hostbird",
   "logo": {
-    "dark": "/logo/light.svg",
-    "light": "/logo/dark.svg"
+    "dark": "/files/hostbird.png",
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/files/icon.png",
   "colors": {
     "primary": "#000000",
     "light": "#ffffff",
@@ -38,8 +37,5 @@
       "group": "Integrations",
       "pages": ["integrations/cli", "integrations/vscode"]
     }
-  ],
-  "footerSocials": {
-    "github": "https://github.com/hyperaide"
-  }
+  ]
 }
