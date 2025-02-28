@@ -1,0 +1,45 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "PromptSpec",
+  "logo": {
+    "dark": "/logo/light.svg",
+    "light": "/logo/dark.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#000000",
+    "light": "#ffffff",
+    "dark": "#000000",
+    "anchors": {
+      "from": "#202020",
+      "to": "#202020"
+    },
+    "background": {
+      "dark": "#121212",
+      "light": "#ffffff"
+    }
+  },
+  "topbarLinks": [
+  ],
+  "topbarCtaButton": {
+    "name": "Github",
+    "url": "https://github.com/hyperaide/promptspec"
+  },
+  "tabs": [
+  ],
+  "anchors": [
+  ],
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": ["introduction", "structure", "sdks"]
+    },
+    {
+      "group": "Integrations",
+      "pages": ["integrations/cli", "integrations/vscode"]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/hyperaide"
+  }
+}
