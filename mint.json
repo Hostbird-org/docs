@@ -16,18 +16,18 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Mail Support",
       "url": "mailto:support@hostbird.org"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://platform.ground.dev/dashboard"
+    "name": "Control Panel",
+    "url": "https://cp.hostbird.org"
   },
   "tabs": [
     {
-      "name": "Guides",
-      "url": "guides"
+      "name": "Hosting",
+      "url": "hosting"
     },
     {
       "name": "API Reference",
@@ -59,7 +59,7 @@
     {
       "group": "Guides",
       "pages": [
-        "guides/introduction"
+        "guides/hosting"
       ]
     },
     {
