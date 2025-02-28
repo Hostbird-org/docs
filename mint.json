@@ -28,10 +28,6 @@
   },
   "tabs": [
     {
-      "name": "Docs",
-      "url": "introduction"
-    },
-    {
       "name": "Hosting",
       "url": "hosting"
     },
