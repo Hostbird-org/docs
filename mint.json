@@ -7,17 +7,11 @@
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#4353ff",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#4353ff",
+    "dark": "#4353ff",
     "anchors": {
-      "from": "#3b82f6",
-      "to": "#07C983"
-    }
-  },
-  "api": {
-    "baseUrl": "https://platform.bound.dev/api",
-    "auth": {
-      "method": "bearer"
+      "from": "#4353ff",
+      "to": "#000DA1"
     }
   },
   "topbarLinks": [
