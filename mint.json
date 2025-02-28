@@ -5,7 +5,7 @@
     "/openapi.yaml"
   ]}
   "logo": {
-         "/images/hb_logo.png"
+         "images/hb_logo.png"
             },
   "favicon": "/favicon.png",
   "colors": {
