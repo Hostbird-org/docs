@@ -1,0 +1,102 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Hostbird",
+  "openapi": [
+    "/openapi.yaml"
+  ],
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#3b82f6",
+    "light": "#07C983",
+    "dark": "#0D9373",
+    "anchors": {
+      "from": "#3b82f6",
+      "to": "#07C983"
+    }
+  },
+  "api": {
+    "baseUrl": "https://platform.bound.dev/api",
+    "auth": {
+      "method": "bearer"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:support@hostbird.org"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://platform.ground.dev/dashboard"
+  },
+  "tabs": [
+    {
+      "name": "Guides",
+      "url": "guides"
+    },
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Documentation",
+      "icon": "github",
+      "url": "https://github.com/ground-ai/docs"
+    },
+    {
+      "name": "Community",
+      "icon": "slack",
+      "url": "https://grounddev.slack.com/"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": [
+        "introduction",
+        "quickstart",
+        "development"
+      ]
+    },
+    {
+      "group": "Essentials",
+      "pages": [
+        "essentials/faq"
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        "guides/introduction"
+      ]
+    },
+    {
+      "group": "API Documentation",
+      "pages": [
+        "api-reference/introduction"
+      ]
+    },
+    {
+      "group": "Documents",
+      "pages": [
+        "api-reference/endpoint/list-documents",
+        "api-reference/endpoint/upload-document",
+        "api-reference/endpoint/delete-document"
+      ]
+    },
+    {
+      "group": "Search",
+      "pages": [
+        "api-reference/endpoint/hybrid-search",
+        "api-reference/endpoint/dense-search"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/ground-ai/docs",
+    "slack": "https://grounddev.slack.com/"
+  }
+}
