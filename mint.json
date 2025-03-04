@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Hostbird Docs",
+  "name": "Hostbird Documentation",
   "openapi": [
     "/openapi.yaml"
   ],
-  "logo": "/images/hb_logo.png",
+  "logo": "/images/documentation.webp",
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#4353ff",
@@ -24,16 +24,12 @@
   ],
   "topbarCtaButton": {
     "name": "Control Panel",
-    "url": "https://cp.hostbird.org"
+    "url": "https://cp.hostingbird.org"
   },
   "tabs": [
     {
-      "name": "Hosting",
-      "url": "hosting"
-    },
-    {
-      "name": "Cloud",
-      "url": "cloud"
+      "name": "Documentation",
+      "url": "/documentation"
     }
   ],
   "anchors": [
@@ -49,7 +45,8 @@
       "pages": [
         "hosting/managed",
         "hosting/virtual",
-        "hosting/dedicated"
+        "hosting/dedicated",
+        "introduction"
       ]
     },
     {
@@ -62,12 +59,6 @@
       "group": "Guides",
       "pages": [
         "guides/hosting"
-      ]
-    },
-    {
-      "group": "Hosting",
-      "pages": [
-        "introduction"
       ]
     },
     {
